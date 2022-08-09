@@ -1,0 +1,86 @@
+export const DATA_LIST = [{
+    userId:"rirani",
+    jobTitleName:"Developer",
+    firstName:"Romin",
+    lastName:"Flex",
+    preferredFullName:"Romin Flex",
+    employeeCode:"E1",
+    region:"CA",
+}, {
+    userId:"nirani",
+    jobTitleName:"Developer",
+    firstName:"Neil",
+    lastName:"Pat",
+    preferredFullName:"Neil PAt",
+    employeeCode:"E2",
+    region:"CA",
+}, {
+    userId:"thanks",
+    jobTitleName:"Program Directory",
+    firstName:"Tom",
+    lastName:"Hanks",
+    preferredFullName:"Tom Hanks",
+    employeeCode:"E3",
+    region:"CA",
+}, {
+    userId:"Hepburn",
+    jobTitleName:"Programmer",
+    firstName:"Katharine",
+    lastName:"Hepburn",
+    preferredFullName:" Katharine Hepburn",
+    employeeCode:"E4",
+    region:"UK",
+}, {
+    userId:"Elizabeth",
+    jobTitleName:"Sr. Developer",
+    firstName:"Elizabeth",
+    lastName:"Elizabeth Rosemond",
+    preferredFullName:"Elizabeth Rosemond Taylor",
+    employeeCode:"E5",
+    region:"US",
+}, {
+    userId:"Ruth",
+    jobTitleName:"Sr. Developer",
+    firstName:"Ruth Elizabeth",
+    lastName:"Davis",
+    preferredFullName:"Ruth Elizabeth Davis",
+    employeeCode:"E6",
+    region:"CA",
+}, {
+    userId:"Leonardo",
+    jobTitleName:"Sr. Manager",
+    firstName:"Leonardo",
+    lastName:"DiCaprios",
+    preferredFullName:"Leonardo DiCaprios",
+    employeeCode:"E7",
+    region:"US",
+}, {
+    userId:"Cate",
+    jobTitleName:"Sr. Manager",
+    firstName:"Cate",
+    lastName:"Blanchett",
+    preferredFullName:"Cate Blanchett",
+    employeeCode:"E8",
+    region:"SP",
+}, {
+    userId:"Kate",
+    jobTitleName:"Sr. Manager",
+    firstName:"Kate",
+    lastName:"Winslet",
+    preferredFullName:"Kate Winslet",
+    employeeCode:"E9",
+    region:"IR",
+}, {
+    userId:"Bruce",
+    jobTitleName:"Sr. Manager",
+    firstName:"Bruce",
+    lastName:"Lee",
+    preferredFullName:"Bruce Lee",
+    employeeCode:"E10",
+    region:"IR",
+}];
+
+
+
+
+
